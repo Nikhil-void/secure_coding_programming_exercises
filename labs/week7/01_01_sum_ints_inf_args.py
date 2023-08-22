@@ -14,3 +14,4 @@
 
 def sum_ints():
     pass
+    return None
